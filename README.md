@@ -1,3 +1,17 @@
+<div align="center">
+
+<h1>🧠 Nefarious</h1>  
+<i>Cold logic, clear output.</i>
+
+<img src="https://img.shields.io/badge/Mode-Dark-red?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+---
+
+```diff
+- No noise.
++ Just output.
+
+
 ## 👋 Hi there, I'm Abdulaziz (aka Nefarious)
 
 🎓 A student majoring in **Data Science**  
