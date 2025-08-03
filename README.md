@@ -8,7 +8,7 @@
 ```diff
 - No noise.
 + Just output.
-
+```
 
 ## 👋 Hi there, I'm Abdulaziz (aka Nefarious)
 
@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Project
 
-🔍 [Students' Mental Health Analysis](https://github.com/N3farious01/students-mental-health-analysis)
+#### 🔍 [Students' Mental Health Analysis](https://github.com/N3farious01/students-mental-health-analysis)
 - Uses SQL to analyze depression, self-compassion, and suicidal ideation (PHQ-9, SCS, ASISS)
 - Groups and filters data by international status and length of stay
 - Outputs aggregated insights with clear, structured results
