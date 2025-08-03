@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi there, I'm Abdulaziz (aka Nefarious)
 
-<!--
-**N3farious01/N3farious01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student majoring in **Data Science**  
+💡 Passionate about data, intelligence, and practical problem-solving  
+📈 Skilled in **SQL** → **Python** → (soon: Power BI & Machine Learning)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+#### 🔍 [Students' Mental Health Analysis](https://github.com/N3farious01/students-mental-health-analysis)
+- Uses SQL to analyze depression, self-compassion, and suicidal ideation (PHQ-9, SCS, ASISS)
+- Groups and filters data by international status and length of stay
+- Outputs aggregated insights with clear, structured results
+
+---
+
+### 📫 Ask Me About:
+- Turning messy data into usable insight
+- Writing efficient SQL queries
+- Building clean analytical projects from scratch
+- How I structure and grow technical portfolios
+
+---
+
+⚡ **Fun fact**: My performance rises with structure, pressure, and caffeine ☕
+
+🧠 More coming soon — the system is just warming up...
