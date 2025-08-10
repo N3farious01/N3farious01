@@ -21,10 +21,14 @@
 
 ### 🚀 Featured Project
 
-#### 🔍 [Students' Mental Health Analysis](https://github.com/N3farious01/students-mental-health-analysis)
-- Uses SQL to analyze depression, self-compassion, and suicidal ideation (PHQ-9, SCS, ASISS)
-- Groups and filters data by international status and length of stay
-- Outputs aggregated insights with clear, structured results
+#### ⚡ [EV Charging — Shared Stations Analytics](https://github.com/N3farious01/ev-charging-shared-analytics)
+- SQL analysis of **shared** EV charging sessions.
+- Deliverables:
+  - `unique_users_per_garage` — distinct users per garage.
+  - `most_popular_shared_start_times` — **Top-10** start times by weekday + hour.
+  - `long_duration_shared_users` — users with **AVG(duration_hours) > 10h**.
+- Stack: SQL, Datalab/PostgreSQL, CSV. Notebook included.
+- Output: three tidy tables + reproducible queries.
 
 ---
 
